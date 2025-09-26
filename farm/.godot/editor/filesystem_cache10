@@ -1,0 +1,14 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1758798743
+icon.svg::CompressedTexture2D::7288306182652730429::1758797398::1758797407::1::::<><><>0<>0<>97403f70e3446bd18b6809cc3e0fcf0f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1758798743
+crab.png::CompressedTexture2D::6506780961438144616::1758798724::1758798751::1::::<><><>0<>0<>d70b6b585d77cac66dcc321dd2be7faf<>res://.godot/imported/crab.png-8c3f0d487c4f55739f26903ac89d0947.ctex::
+new_character.png::CompressedTexture2D::1865256928795806077::1758798724::1758798751::1::::<><><>0<>0<>0ed5ad62bbee55dac692072e9e02fb86<>res://.godot/imported/new_character.png-4756fc5fac79501a94a9fafecca5d480.ctex::
+new_cliff.png::CompressedTexture2D::1004031976767702193::1758798724::1758798751::1::::<><><>0<>0<>f56e52764867b0c06adf3191d7bfd2a2<>res://.godot/imported/new_cliff.png-65d293951273dfe4c49e3c1f9042e193.ctex::
+tilemap1.png::CompressedTexture2D::137649438462272910::1758798724::1758798751::1::::<><><>0<>0<>04e8db64fdd4e78da5aa10674b7d35f6<>res://.godot/imported/tilemap1.png-4a13064b3834c57e7d364588b5ab4753.ctex::
+water_tile_template.png::CompressedTexture2D::2971090351903802742::1758798724::1758798751::1::::<><><>0<>0<>d7152d7625601853d30c8d26caf712e6<>res://.godot/imported/water_tile_template.png-990a69f8bff676334ac6ce668a1eb2fe.ctex::
+::res://assets/tiles/::1758798743
+dirt_tileset.png::CompressedTexture2D::9136300533722799167::1758798724::1758798751::1::::<><><>0<>0<>65ec7d8abab4402738de049853f6bb1f<>res://.godot/imported/dirt_tileset.png-1001251176a14874d146e2506ef4c296.ctex::
+grass_tileset.png::CompressedTexture2D::2114649615594822508::1758798724::1758798751::1::::<><><>0<>0<>2208cf40a20e67aafc77ab8bf91c7923<>res://.godot/imported/grass_tileset.png-bfbec384678fe9677c28b341ef56ab00.ctex::
+sand_tileset.png::CompressedTexture2D::6708669471857732640::1758798724::1758798751::1::::<><><>0<>0<>85b13664f99c2846c86207c5eb897b7d<>res://.godot/imported/sand_tileset.png-80f52cc1a07d91399cd7a4bb93aec36b.ctex::
+water_tileset.png::CompressedTexture2D::4743921244202638450::1758798724::1758798751::1::::<><><>0<>0<>6a56b4b22b6625cd2d384b963340bc3a<>res://.godot/imported/water_tileset.png-9409fc222ad99e4a6c043ffbc26a3b18.ctex::
